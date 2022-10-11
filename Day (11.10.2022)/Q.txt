@@ -1,0 +1,13 @@
+Problem 2 :
+
+Class A serves as a base class for the derived class B, 
+which in turn serves as a base class for the derived class C.
+(Which type Of Inheritance explain with an example)
+
+Problem 3:
+
+Consider a scenario where Bank is a class that provides 
+functionality to get the rate of interest. 
+However, the rate of interest varies according to banks. 
+For example, SBI, ICICI and AXIS banks could 
+provide 8%, 7%, and 9% rate of interest.
