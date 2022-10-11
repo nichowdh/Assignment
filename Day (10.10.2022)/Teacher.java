@@ -11,13 +11,10 @@ like Math Teacher, Music Teacher and PhysicsTeacher
 do not need to write this code and can be used directly 
 from base class.*/
 public class Teacher { // Base class
-	String designation, college, work;
 
-	public Teacher(String designation, String college, String work) { // constructor
-		this.designation = designation;
-		this.college = college;
-		this.work = work;
-
+	// creating method
+	void work(String college, String designation) {
+		System.out.println(college + " " + designation);
 	}
 
 }
