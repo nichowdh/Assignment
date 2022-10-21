@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+//Write a Java method to compute the future investment 
+//value at a given interest rate for a specified number of years.
 public class FutureInvestment {
 	public static void main(String[] args) {
 		// data variables
