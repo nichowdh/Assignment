@@ -11,7 +11,9 @@ public class Floating_Point {
 		a = sc.nextFloat();
 		System.out.println("Enter 2nd number: ");
 		b = sc.nextFloat();
+		a = Math.round(a * 1000);
 		a = a / 1000;
+		b = Math.round(b * 1000);
 		b = b / 1000;
 		if (a == b) { // if condition
 			System.out.println("They are same upto 3 decimals");
